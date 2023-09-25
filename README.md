@@ -7,3 +7,4 @@ module 3
 * https://stackoverflow.com/questions/59493593/loop-over-csv-rows-and-subtract-current-row-from-previous-row-using-python
 * https://www.geeksforgeeks.org/python-converting-all-strings-in-list-to-integers/#
 * https://www.geeksforgeeks.org/unpacking-a-tuple-in-python/
+* https://www.tutorialspoint.com/maximum-element-in-tuple-list-in-python#:~:text=When%20it%20is%20required%20to,passed%20as%20argument%20to%20it.
